@@ -1,5 +1,5 @@
 ![Project Demo](./assets/demo/Menu.png)
-
+(There may be bugs :) Be careful!!!)
 This project is a visualization tool for common data structures and algorithms, built using C++ and the Raylib library. It allows users to interactively observe how data structures change step-by-step during fundamental operations like insertion, deletion, and search.
 
 ## Table of Contents
