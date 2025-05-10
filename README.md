@@ -142,7 +142,7 @@ data-structures-visualization/
 
 1.  **Clone the repository (if applicable):**
     ```bash
-    git clone data-structures-visualization
+    git clone https://github.com/NgTrongDoanh/data-structures-visualization.git
     cd data-structures-visualization
     ```
 2.  **Build the project:**
