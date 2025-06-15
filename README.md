@@ -21,8 +21,6 @@ This project is a visualization tool for common data structures and algorithms, 
 *   **User Interaction:** Allows users to input data, select operations (insert, delete, search, randomize, load from file).
 *   **Animation Control:** Play, pause, step forward/backward, jump to start/end, and adjust animation speed.
 *   **Pseudocode Display:** Shows corresponding pseudocode snippets for the current step for easy reference (not compeletely).
-*   **User-Friendly Interface:** Simple and intuitive GUI created with Raylib.
-*   **Cross-Platform (thanks to Raylib):** Capable of being compiled and run on multiple operating systems.
 
 ## Supported Data Structures
 
